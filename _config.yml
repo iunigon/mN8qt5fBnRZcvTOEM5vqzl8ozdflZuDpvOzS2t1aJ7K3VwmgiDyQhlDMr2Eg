@@ -1,7 +1,7 @@
 # 1. Site Settings
 title               : PANEL - PRIVATE - MOV
 owner               : "The Republic of the Spacescraper"
-url                : "http://mn8qt5fbnrzcvtoem5vqzl8ozdflzudpvozs2t1aj7k3vwmgidyqhldmr2eg.secure.unigon.net"
+url                : "//mn8qt5fbnrzcvtoem5vqzl8ozdflzudpvozs2t1aj7k3vwmgidyqhldmr2eg.secure.unigon.net"
 baseurl            : ""
 permalink           : /:title/
 description         : "The panel for accessing, controlling, collaborating, organizing, programming, networking, hacking, etc. on the MOV (Spacescraper)."
